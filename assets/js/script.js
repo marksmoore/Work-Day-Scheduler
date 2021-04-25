@@ -22,8 +22,6 @@ $(document).ready(function(){
     })
     console.log(currentTime);
     
-    
-    
     $('.HourRow').each(function(i) {
         console.log(timeArray.indexOf(currentTime));
         if (timeArray.indexOf(currentTime) > i) {
