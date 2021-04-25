@@ -1,5 +1,8 @@
 # Work Day Scheduler Starter Code
 
+
+The application is published here:   https://marksmoore.github.io/Work-Day-Scheduler/
+
 Work Day Scheduler is an application to store "to do" lists of functions that you want to accomplish day by day.
 
 The Application:
